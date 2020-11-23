@@ -674,7 +674,7 @@ a.eg-henryharrison-element-2 {
 .eg-custom-2-element-0:hover {
 	font-size: 30px;
 	line-height: 30px;
-	color: #ff194f;
+	color: #b9223e /* NOTE: This was previously #ff194f */;
 	font-weight: 300;
 	border-radius: 0px 0px 0px 0px;
 	background-color: rgba(255, 255, 255, 0);
@@ -685,7 +685,7 @@ a.eg-henryharrison-element-2 {
 .eg-custom-2-element-6:hover {
 	font-size: 10px;
 	line-height: 12px;
-	color: #ff194f;
+	color: #b9223e /* NOTE: This was previously #ff194f */;
 	font-weight: 700;
 	border-radius: 20px 20px 20px 20px;
 	background-color: rgba(255, 255, 255, 1.00);
@@ -1417,7 +1417,7 @@ a.eg-henryharrison-element-2 {
 .eg-custom-3-element-24:hover {
 	font-size: 10px;
 	line-height: 10px;
-	color: #ff194f;
+	color: #b9223e /* NOTE: This was previously #ff194f */;
 	font-weight: 700;
 	border-radius: 20px 20px 20px 20px;
 	background-color: rgba(255, 255, 255, 1.00);
@@ -2466,7 +2466,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .vc_custom_1480516187252 {
-	background: #42caf3 url(../images/background-8.jpg)!important;
+	background: #f4b5b5 /* NOTE: This was previously #42caf3 */ url(../images/background-8.jpg)!important;
 	background-position: center!important;
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
@@ -2483,10 +2483,11 @@ a.eg-henryharrison-element-2 {
 	background-size: cover!important;
 }
 
-.vc_custom_1478084474865 {
+/* NOTE: Temporarily removing this padding */
+/* .vc_custom_1478084474865 {
 	margin-right: 4em!important;
 	margin-left: 4em!important;
-}
+} */
 
 .vc_custom_1478599188321 {
 	padding-right: 0px!important;
@@ -2849,7 +2850,7 @@ a.eg-henryharrison-element-2 {
 
 .cublock_1 {
 	font-size: 42px;
-	color: #ff194f;
+	color: #b9223e /* NOTE: This was previously #ff194f */;
 	line-height: 60px;
 	text-align: left;
 	font-family:Roboto;
@@ -2874,11 +2875,11 @@ a.eg-henryharrison-element-2 {
 }
 .servicespage .icon-calendar-1 span,
 .servicespage .icon-calendar-1 {
-	background-color: #42caf3;
+	background-color: #f4b5b5 /* NOTE: This was previously #42caf3 */;
 }
 .servicespage .icon-juice span,
 .servicespage .icon-juice {
-	background-color: #8edcc0;
+	background-color: #b9223e /* NOTE: This was previously #8edcc0 */;
 }
 
 
@@ -2899,11 +2900,11 @@ a.eg-henryharrison-element-2 {
 }
 .home2 .icon-calendar-1,
 .home2 .icon-calendar-1 .sc_icon_inner {
-	background-color: #42caf3;
+	background-color: #f4b5b5 /* NOTE: This was previously #42caf3 */;
 }
 .home2 .icon-juice,
 .home2 .icon-juice .sc_icon_inner {
-	background-color: #8edcc0;
+	background-color: #b9223e /* NOTE: This was previously #8edcc0 */;
 }
 
 .home2 .trx_addons_lh_20 {
@@ -2919,11 +2920,11 @@ a.eg-henryharrison-element-2 {
 }
 .home3 .icon-calendar-1,
 .home3 .icon-calendar-1 span {
-	background-color: #42caf3;
+	background-color: #f4b5b5 /* NOTE: This was previously #42caf3 */;
 }
 .home3 .icon-juice,
 .home3 .icon-juice span {
-	background-color: #8edcc0;
+	background-color: #b9223e /* NOTE: This was previously #8edcc0 */;
 }
 .home3 .vc_custom_1476271716987 span {
 	color: #ffffff;
@@ -2949,11 +2950,11 @@ a.eg-henryharrison-element-2 {
 }
 .contactus .icon-open-letter span,
 .contactus .icon-open-letter {
-	background-color: #42caf3;
+	background-color: #f4b5b5 /* NOTE: This was previously #42caf3 */;
 }
 .contactus .icon-speech-bubble-with-phone-receiver span,
 .contactus .icon-speech-bubble-with-phone-receiver {
-	background-color: #8edcc0;
+	background-color: #b9223e /* NOTE: This was previously #8edcc0 */;
 }
 
 .star-rating span {
