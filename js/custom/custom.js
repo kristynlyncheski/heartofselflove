@@ -399,7 +399,8 @@ function initRevSlider() {
 					mouseScrollReverse: "default",
 					onHoverStop: "off",
 					bullets: {
-						enable: true,
+						// enable: true,
+						enable: false,
 						hide_onmobile: true,
 						hide_under: 640,
 						style: "ares",
