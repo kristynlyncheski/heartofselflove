@@ -1924,8 +1924,9 @@ ul.trx_addons_list_parameters>li em {
 .scheme_default .sc_item_title {
     color: #4c4c4c
 }
+.scheme_default h1.sc_item_title,
 .scheme_default .sc_item_subtitle {
-    color: #f4b5b5 /* NOTE: This was previously #42caf3 */
+    color: #f4b5b5!important /* NOTE: This was previously #42caf3 */
 }
 .scheme_default .scheme_dark .sc_item_subtitle {
     color: #fff!important

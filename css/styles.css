@@ -2064,9 +2064,15 @@ ul.trx_addons_list_plus_aligned h4 {
     text-transform: none;
     letter-spacing: 0
 }
+.sc_item_subtitle_large {
+    font-size: 3em;
+}
 .sc_item_title {
     line-height: 1.156em;
     margin-top: 0.55em
+}
+h1.sc_item_title {
+    font-family: "caveat", serif
 }
 h2.sc_item_title.sc_item_title_style_default {
     font-size: 4.285rem;
@@ -2930,10 +2936,10 @@ label.required .sc_form_field_title:after {
     font-size: 1.714em;
     line-height: 1.5em;
     letter-spacing: 0;
-    margin-top: -0.2em
+    margin-top: 0;
 }
 .sc_services_default .sc_services_item_content {
-    margin-top: 0.95em;
+    margin-top: 0.5em;
     min-height: 5.4em
 }
 .sc_services_default .sc_services_item_button {

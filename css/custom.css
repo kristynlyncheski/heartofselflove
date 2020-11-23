@@ -2391,7 +2391,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .melanie_hanson_inline_0 {
-	background-image: url(../images/breadcrumbs_bg.jpg);
+	background-image: url(../images/background-1.png);
 }
 
 .melanie_hanson_inline_1 {
@@ -2429,7 +2429,7 @@ a.eg-henryharrison-element-2 {
 
 
 .vc_custom_1474288884820 {
-	background-image: url(../images/background-4.jpg) !important;
+	/* background-image: url(../images/background-1.png) !important; */
 }
 
 .vc_custom_1474281354913 {
@@ -2437,7 +2437,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .vc_custom_1476781417113 {
-	background-image: url(../images/background-6.jpg)!important;
+	background-image: url(../images/background-4.jpg)!important;
 	background-position: center!important;
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
@@ -2451,7 +2451,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .vc_custom_1478098816736 {
-	background-color: #ffffff!important;
+	background-color: #ffebeb!important;
 }
         
 .vc_custom_1476979030849 {
@@ -2540,7 +2540,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .vc_custom_1477044487510 {
-	background-image: url(../images/950x1500.png)!important;
+	background-image: url(../images/3-layers.jpg) !important;
 	background-position: center!important;
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
@@ -2581,7 +2581,7 @@ a.eg-henryharrison-element-2 {
 	margin-right: 7em!important;
 }
 .vc_custom_1478600194441 {
-	background-image: url(../images/background-6.jpg)!important;
+	background-image: url(../images/background-1.jpg)!important;
 	background-position: center!important;
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
@@ -2862,7 +2862,7 @@ a.eg-henryharrison-element-2 {
 	text-align: center; 
 	margin-top: 0;
 }
-.home1 .vc_custom_1478088620393 span{
+.home2 .vc_custom_1478088620393 span{
 	color: #ffffff;
 }
 .home1 .vc_custom_1478088620393 p {
@@ -2911,7 +2911,7 @@ a.eg-henryharrison-element-2 {
 	margin-top: 2.4em!important;
 }
 .home2 .trx_addons_lh_20 span {
-	color: #ffffff;
+	color: #4c4c4c;
 }
 
 .home3 .icon-breakfast,
@@ -3021,7 +3021,6 @@ a.eg-henryharrison-element-2 {
 	height:auto;
 }
 
-
 #sc_promo_964 .sc_promo_image {
 	background-image:url(../images/600x700.png);
 	width:46%;
@@ -3079,7 +3078,7 @@ a.eg-henryharrison-element-2 {
 }
 
 #sc_action_197 .sc_action_item {
-	background-image:url(../images/950x1500.png);
+	background-image:url(../images/photo-kristyn-laughing-beach-overlay.jpg);
 }
 #sc_promo_823 .sc_promo_text {
 	width: 100%;
@@ -3292,4 +3291,26 @@ a.eg-henryharrison-element-2 {
 
 .contacts {
 	display: inline;
+}
+
+.home2 .home-list {
+	font-size: 1.142em;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.25em;
+	margin-top: 1em;
+	margin-bottom: 1.75em;
+	letter-spacing: 0;
+	line-height: 2.0em;
+	font-family: "metropolis", sans-serif;
+}
+
+a.text-link {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #b9223e;
+}
+
+a.text-link:hover {
+  color: #f4b5b5;
 }

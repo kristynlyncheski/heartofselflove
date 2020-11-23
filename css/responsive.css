@@ -148,6 +148,9 @@
 	.vc_row.vc_row-o-full-height{
 		min-height: auto !important;
 	}
+	.sc_action_item.with_image {
+		background-position: top;
+	}
 	.sc_action_item.with_image.trx_addons_stretch_height .sc_action_item_inner,
 	.sc_promo .sc_promo_text.trx_addons_stretch_height .sc_promo_text_inner {
 		position: relative;
