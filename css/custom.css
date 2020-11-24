@@ -2612,7 +2612,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .vc_custom_1476283034842 {
-	background-image: url(../images/background-1.jpg)!important;
+	background-image: url(../images/background-2.png)!important;
 }
 
 .vc_custom_1476283491992 {
@@ -2620,7 +2620,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .vc_custom_1477405531155 {
-	background-image: url(../images/1000.png)!important;
+	background-image: url(../images/photo-kristyn-writing.jpg) !important;
 	background-position: center!important;
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
@@ -2645,7 +2645,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .vc_custom_1477407488909 {
-	background-image: url(../images/1000.png)!important;
+	background-image: url(../images/photo-sisterhood.jpg) !important;
 	background-position: center!important;
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
@@ -3067,7 +3067,7 @@ a.eg-henryharrison-element-2 {
 }
 
 #sc_promo_129 .sc_promo_image {
-	background-image:url(../images/1000x1300.png);
+	background-image:url(../images/photo-kristyn-sitting-on-gazebo-steps.jpg);
 	width:43%;
 	left: 0;
 }
@@ -3293,11 +3293,10 @@ a.eg-henryharrison-element-2 {
 	display: inline;
 }
 
-.home2 .home-list {
+.custom-bullet-list {
 	font-size: 1.142em;
 	font-weight: 400;
 	font-style: normal;
-	line-height: 1.25em;
 	margin-top: 1em;
 	margin-bottom: 1.75em;
 	letter-spacing: 0;
@@ -3313,4 +3312,20 @@ a.text-link {
 
 a.text-link:hover {
   color: #f4b5b5;
+}
+
+.home2 .vc_custom_1478098816736 p,
+.aboutus .post_content p {
+  font-size: 1.2em;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  letter-spacing: 0;
+  line-height: 1.5em;
+  font-family: "metropolis", sans-serif;
+}
+
+.home2 .vc_custom_1478098816736 p {
+  font-size: 1.142em;
 }
