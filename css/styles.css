@@ -2066,6 +2066,8 @@ ul.trx_addons_list_plus_aligned h4 {
 }
 .sc_item_subtitle_large {
     font-size: 3em;
+    margin-bottom: 0.75em;
+    line-height: 1.0em;
 }
 .sc_item_title {
     line-height: 1.156em;
