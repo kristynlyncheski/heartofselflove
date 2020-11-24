@@ -650,7 +650,7 @@ ul.trx_addons_list_parameters>li em {
     background-color: transparent;
 }
 .scheme_default .menu_mobile_inner {
-    background-color: #5a5386
+    background-color: #b9223e /* NOTE: This was previously #5a5386 */
 }
 .scheme_default .menu_mobile_button {
     color: #2d2d2d
@@ -675,20 +675,20 @@ ul.trx_addons_list_parameters>li em {
 .scheme_default .menu_mobile_inner a:hover,
 .scheme_default .menu_mobile_inner .current-menu-ancestor>a,
 .scheme_default .menu_mobile_inner .current-menu-item>a {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_default .menu_mobile_inner .search_mobile .search_submit {
     color: #8b9ba6
 }
 .scheme_default .menu_mobile_inner .search_mobile .search_submit:focus,
 .scheme_default .menu_mobile_inner .search_mobile .search_submit:hover {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_default .menu_mobile_inner .social_item a {
     color: #2d2d2d
 }
 .scheme_default .menu_mobile_inner .social_item a:hover {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_default .top_panel_title .post_meta {
     color: #4c4c4c
@@ -3791,7 +3791,7 @@ ul.trx_addons_list_parameters>li em {
     background-color: transparent;
 }
 .scheme_light .menu_mobile_inner {
-    background-color: #5a5386
+    background-color: #b9223e /* NOTE: This was previously #5a5386 */
 }
 .scheme_light .menu_mobile_button {
     color: #2d2d2d
@@ -3816,20 +3816,20 @@ ul.trx_addons_list_parameters>li em {
 .scheme_light .menu_mobile_inner a:hover,
 .scheme_light .menu_mobile_inner .current-menu-ancestor>a,
 .scheme_light .menu_mobile_inner .current-menu-item>a {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_light .menu_mobile_inner .search_mobile .search_submit {
     color: #b6cad9
 }
 .scheme_light .menu_mobile_inner .search_mobile .search_submit:focus,
 .scheme_light .menu_mobile_inner .search_mobile .search_submit:hover {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_light .menu_mobile_inner .social_item a {
     color: #2d2d2d
 }
 .scheme_light .menu_mobile_inner .social_item a:hover {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_light .top_panel_title .post_meta {
     color: #4c4c4c
@@ -6927,7 +6927,7 @@ ul.trx_addons_list_parameters>li em {
     background-color: transparent;
 }
 .scheme_side .menu_mobile_inner {
-    background-color: #5a5386
+    background-color: #b9223e /* NOTE: This was previously #5a5386 */
 }
 .scheme_side .menu_mobile_button {
     color: #ffffff
@@ -6952,20 +6952,20 @@ ul.trx_addons_list_parameters>li em {
 .scheme_side .menu_mobile_inner a:hover,
 .scheme_side .menu_mobile_inner .current-menu-ancestor>a,
 .scheme_side .menu_mobile_inner .current-menu-item>a {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_side .menu_mobile_inner .search_mobile .search_submit {
     color: #e9e9eb
 }
 .scheme_side .menu_mobile_inner .search_mobile .search_submit:focus,
 .scheme_side .menu_mobile_inner .search_mobile .search_submit:hover {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_side .menu_mobile_inner .social_item a {
     color: #ffffff
 }
 .scheme_side .menu_mobile_inner .social_item a:hover {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_side .top_panel_title .post_meta {
     color: #909090
@@ -10063,7 +10063,7 @@ ul.trx_addons_list_parameters>li em {
     background-color: transparent;
 }
 .scheme_dark .menu_mobile_inner {
-    background-color: #5a5386
+    background-color: #b9223e /* NOTE: This was previously #5a5386 */
 }
 .scheme_dark .menu_mobile_button {
     color: #b9223e /* NOTE: This was previously #ff194f */
@@ -10088,20 +10088,20 @@ ul.trx_addons_list_parameters>li em {
 .scheme_dark .menu_mobile_inner a:hover,
 .scheme_dark .menu_mobile_inner .current-menu-ancestor>a,
 .scheme_dark .menu_mobile_inner .current-menu-item>a {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_dark .menu_mobile_inner .search_mobile .search_submit {
     color: #e9e9eb
 }
 .scheme_dark .menu_mobile_inner .search_mobile .search_submit:focus,
 .scheme_dark .menu_mobile_inner .search_mobile .search_submit:hover {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_dark .menu_mobile_inner .social_item a {
     color: #ffffff
 }
 .scheme_dark .menu_mobile_inner .social_item a:hover {
-    color: #b6b0de
+    color: #f4b5b5 /* NOTE: This was previously #b6b0de */
 }
 .scheme_dark .top_panel_title .post_meta {
     color: #909090

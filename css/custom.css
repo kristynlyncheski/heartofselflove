@@ -2565,6 +2565,12 @@ a.eg-henryharrison-element-2 {
 	margin-right: 4em!important;
 	margin-left: 4em!important;
 }
+@media (max-width: 767px) {
+    .vc_custom_1478100176928 {
+      margin-right: 0em !important;
+      margin-left: 0em !important;
+    }
+}
 
 .vc_custom_1476271716987 {
 	margin-top: -1em!important;

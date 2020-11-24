@@ -3194,8 +3194,7 @@ body.mobile_layout.menu_style_right .menu_side_wrap .menu_side_button:hover {
 
 .menu_mobile .socials_mobile {
     margin: 3em 0;
-    text-align: right;
-    ;
+    /* text-align: right; */
 }
 
 .menu_mobile .social_item {
@@ -3209,9 +3208,7 @@ body.mobile_layout.menu_style_right .menu_side_wrap .menu_side_button:hover {
 
 .menu_mobile .social_item a {
     display: block;
-    font-size: 1em;
-    width: 1em;
-    height: 1em;
+    font-size: 1.5em;
     line-height: 1em;
     text-align: center;
 }
@@ -6194,10 +6191,10 @@ ul.instagram-pics li:before {
 
 .socials_footer_wrap_inner .social_icons {
     display: inline-block;
-    width: 2.2em;
-    height: 2.2em;
+    /* width: 2.2em;
+    height: 2.2em; */
     line-height: 2.2em;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .socials_footer_wrap_inner .social_item+.social_item {
