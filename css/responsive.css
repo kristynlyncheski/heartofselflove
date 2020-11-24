@@ -3435,8 +3435,8 @@
     .admin-bar .menu_mobile {
         top: 46px;
     }
-    .toc_menu_item .toc_menu_description,
-    .home_1_slide_1_text_4 {
+    .toc_menu_item .toc_menu_description {
+    /* .home_1_slide_1_text_4 { */
         display: none!important;
     }
 }
