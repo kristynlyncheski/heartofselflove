@@ -6,7 +6,6 @@ if (!window.location.hostname || window.location.origin === 'file://') {
         var pattern = /^((http|https|ftp|mailto):)/;
 
         if (!!url && !pattern.test(url)) {
-            console.log(url)
             if (url.includes('#')) {
                 var anchor = url.split('#')[1];
 

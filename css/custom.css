@@ -3335,3 +3335,8 @@ a.text-link:hover {
 .home2 .vc_custom_1478098816736 p {
   font-size: 1.142em;
 }
+
+.home2 .tp-caption.home_1_slide_1_text_4 {
+  display:block !important;
+  visibility:visible !important
+}
