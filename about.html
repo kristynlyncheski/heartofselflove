@@ -60,6 +60,32 @@
     <link rel="icon" href="images/cropped-favicon-300x300.png" sizes="192x192" /><!-- TODO: Create a 300x300 favicon -->
     <link rel="apple-touch-icon-precomposed" href="images/cropped-favicon-300x300.png" />
     <meta name="msapplication-TileImage" content="images/cropped-favicon-300x300.png" />
+    <!-- Facebook Pixel Code -->
+    <script>
+        ! function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '3717309331623408');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=3717309331623408&ev=PageView&noscript=1" /></noscript>
+    <!-- End Facebook Pixel Code -->
 </head>
 
 <body class="page aboutus blog_mode_page body_style_wide scheme_default sidebar_hide expand_content remove_margins header_style_header-1 header_title_on no_layout vc_responsive">
