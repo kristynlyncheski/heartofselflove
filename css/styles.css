@@ -2080,6 +2080,9 @@ h2.sc_item_title.sc_item_title_style_default {
     font-size: 4.285rem;
     font-weight: 200
 }
+h2.sc_item_title.sc_item_title_style_default.sc_program_item {
+  font-family: "caveat", serif;
+}
 .sc_item_subtitle+.sc_item_title {
     margin-top: 0.6em
 }

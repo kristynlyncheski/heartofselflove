@@ -2632,6 +2632,13 @@ a.eg-henryharrison-element-2 {
 	background-size: cover!important;
 }
 
+.vc_custom_1477405531156 {
+  background-image: url(../images/photo-heart-sand-cropped.jpg) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
 .vc_custom_1476349874772 {
 	padding-top: 0.7em!important;
 	padding-right: 6.2em!important;
@@ -2651,7 +2658,7 @@ a.eg-henryharrison-element-2 {
 }
 
 .vc_custom_1477407488909 {
-	background-image: url(../images/photo-sisterhood.jpg) !important;
+	background-image: url(../images/photo-stock-sisterhood.jpg) !important;
 	background-position: center!important;
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
@@ -3339,4 +3346,16 @@ a.text-link:hover {
 .home2 .tp-caption.home_1_slide_1_text_4 {
   display:block !important;
   visibility:visible !important
+}
+
+.aboutus .cert-badge-container {
+  text-align: center;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.aboutus .cert-badge-container .cert-badge-item {
+  margin: 10px;
 }
