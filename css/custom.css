@@ -3351,7 +3351,6 @@ a.text-link:hover {
 .aboutus .cert-badge-container {
   text-align: center;
   display: flex;
-  flex-flow: row nowrap;
   align-items: center;
   justify-content: center;
 }
